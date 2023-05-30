@@ -1,4 +1,5 @@
 
+import streamlit as st
 import random
 import gradio as gr
 from langdetect import detect
