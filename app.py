@@ -24,11 +24,6 @@ from typing import Dict, List, Any
 import os
 os.environ['OPENAI_API_KEY'] = "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"
 
-
-# from cachetools import TTLCache, cached
-
-os.environ['OPENAI_API_KEY'] = "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"
-
 """Chain for conversation stage analyzer"""
 
 
