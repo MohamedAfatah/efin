@@ -1,5 +1,4 @@
 
-from langchain.document_loaders import Docx2txtLoader, TextLoader
 import random
 import gradio as gr
 from langdetect import detect
